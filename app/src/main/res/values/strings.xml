@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Plan</string>
+    <string name="Already_have_an_account">Already have an account ?<font color="#170D71">Login</font> </string>
+    <string name="Dont_have_An_Account">Dont have an Account?<font color="#170D71">Register</font> </string>
+    <string-array name="tasks_array">
+        <item></item>
+    </string-array>
+</resources>

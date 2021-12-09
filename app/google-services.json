@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84793430032",
+    "project_id": "the-plan-2465a",
+    "storage_bucket": "the-plan-2465a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84793430032:android:3521fa45704a6225167a95",
+        "android_client_info": {
+          "package_name": "com.example.theplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84793430032-qr8jcpu7qujb38evo5rtf51k1gc1v796.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcNnm4bMZXvfVKnRfpZPEfmuxo4CzVUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84793430032-qr8jcpu7qujb38evo5rtf51k1gc1v796.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
